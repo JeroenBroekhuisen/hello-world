@@ -1,2 +1,3 @@
 # hello-world
 Test repository to learn my way around in GitHub
+I read between the lines I will be fired in 6 months time. So, now is a good moment to start with something new. The last decade I worked mainly as process manager for Incident Management and Release Management. As all delivery functions will be best-shored there is not much future for me in my current company. I could go into sales which is what will be left behind local. However why not start learning something I am really interested in? So, I started studying Data Science at Coursera. And learning my way around Git and GitHub is part of that.
